@@ -18,9 +18,10 @@
 
 
 ### Connect with Me :
+<a href="linkedin.com/in/ahmed-eltaron" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Eltaron-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Ahmedeltaron" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Eltaron-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100008336568693" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Eltaron-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
-<a href="linkedin.com/in/ahmed-eltaron" target="_blank"><img src="file:///E:/AHMED%20ELTARON.htmle"/></a>
-<a href="https://t.me/Ahmedeltaron" target="_blank"><img src="file:///E:/AHMED%20ELTARON%20-%20Copy.html"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
